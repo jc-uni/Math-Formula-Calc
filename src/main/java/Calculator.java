@@ -23,11 +23,11 @@ public class Calculator implements Area, Circumference, Volume{
     public double CircumferenceCircle(double radius) {return 2 * PI * radius;}
 
     @Override
-    public double VolumePyramid(double length, double width, double height) {return (1.0/3.0) * length * width * height;}
+    public double VolumePyramid(double length, double width, double height) {return 0.33 * length * width * height;}
 
     @Override
     public double VolumeRectangle(double length, double width, double height) {return length * width * height;}
 
     @Override
-    public double VolumeSphere(double radius) {return (4.0/3.0) * PI * radius * radius * radius;}
+    public double VolumeSphere(double radius) {return 1.33 * PI * radius * radius * radius;}
 }
