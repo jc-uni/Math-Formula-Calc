@@ -1,5 +1,5 @@
 public class Runner {
     public static void main(String[] args) {
-        Calculator C = new Calculator();
+        GUI G = new GUI();
     }
 }
