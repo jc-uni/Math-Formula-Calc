@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-11-26T09:29:17" hostname="LAPTOP-8NV4IMJR" time="0.034">
+  <properties/>
+  <testcase name="circumferenceCircle()" classname="CalculatorTest" time="0.019"/>
+  <testcase name="volumeSphere()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="circumferenceRectangleFloatResult()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="circumferenceRectangleIntResult()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="areaRectangleFloatResult()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="areaCircle()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="circumferenceTriangleFloatResult()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="volumeRectangleFloatResult()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="areaTriangleIntResult()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="volumeRectangleIntResult()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="volumePyramid()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="areaTriangleFloatResult()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="areaRectangleIntResult()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="circumferenceTriangleIntResult()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
