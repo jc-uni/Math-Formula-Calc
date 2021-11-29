@@ -58,7 +58,7 @@ public class GUI {
                             + Calc.RoundAnswer(Calc.VolumeRectangle(scanner.nextDouble(),scanner.nextDouble(),scanner.nextDouble())));
                 }
             }
-            if(!userInput.equals("0") && !userInput.equals("1") && !userInput.equals("3") && !userInput.equals("4")
+            if(!userInput.equals("0") && !userInput.equals("1") && !userInput.equals("2") && !userInput.equals("3") && !userInput.equals("4")
                     && !userInput.equals("5") && !userInput.equals("6") && !userInput.equals("7") && !userInput.equals("8")){
                 System.out.println("Incorrect alternative (not 0-8)." + "\r\n");
             }
